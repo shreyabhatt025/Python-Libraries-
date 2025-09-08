@@ -1,0 +1,17 @@
+/* Import Google Fonts FIRST */
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Playfair:wght@300..900&display=swap");
+
+/* Tailwind CSS v4 import */
+@import "tailwindcss";
+
+/* Global font */
+* {
+  font-family: 'Outfit', sans-serif;
+}
+
+/* Utility class */
+.font-playfair {
+  font-family: 'Playfair', serif !important;
+}
+
+
